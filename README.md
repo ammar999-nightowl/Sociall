@@ -10,3 +10,6 @@ and also there are privacy features.
 thanks to firebase login for account creation and login...
 and 
 also I use my own server so it might be slow.
+and it will be updated from servers and sometimes apks...
+update the app if I upload new apk
+and most of the updates are done by servers
